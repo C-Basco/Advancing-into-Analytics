@@ -2,7 +2,7 @@
 
 Hi :waving: ,
 
-This repository is a collection of work and topics completed from the book ### Advancing into Analytics.
+This repository is a collection of work and topics completed from the book **Advancing into Analytics** .
 
 ## Part 1
 Part one is comprised of topics covering the foundations of analytics in excel. All files uploaded are workbooks showcasing some technical knowledge and know-how within the topics listed.  
@@ -19,6 +19,7 @@ Part two is comprised of topics covering the transition from excel to the coding
 - Data Manipulation and Visualization in R
 
 ## Part 3
+Part two is comprised of topics covering the transition from excel to the coding language Python.
 
 - Data structures in python
 - Data Manipulation and Visualization in Python
