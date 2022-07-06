@@ -1,6 +1,6 @@
 # Advancing-into-Analytics
 
-Hi :waving: ,
+Hi :wave: ,
 
 This repository is a collection of work and topics completed from the book **Advancing into Analytics** .
 
